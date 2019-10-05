@@ -1,6 +1,6 @@
 # Ubuntu 18.04 LTS (Bionic) Ansible Test Image
 
-[![Build Status](https://travis-ci.org/andrchalov/dind-ubuntu1804-ansible.svg?branch=master)](https://travis-ci.org/andrchalov/dind-ubuntu1804-ansible)[![Docker Automated build](https://img.shields.io/docker/automated/andrchalov/dind-ubuntu1804-ansible)](https://hub.docker.com/r/andrchalov/dind-ubuntu1804-ansible/)
+[![Build Status](https://travis-ci.org/andrchalov/dind-ubuntu1804-ansible.svg?branch=master)](https://travis-ci.org/andrchalov/dind-ubuntu1804-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/andrchalov/dind-ubuntu1804-ansible)](https://hub.docker.com/r/andrchalov/dind-ubuntu1804-ansible/)
 
 Ubuntu 18.04 LTS (Bionic) Docker in docker container for Ansible playbook and role testing.
 
